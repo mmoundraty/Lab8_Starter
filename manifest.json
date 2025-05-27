@@ -1,14 +1,14 @@
 {
-    "name": "",
-    "short_name": "",
-    "description": "",
-    "start_url": "",
-    "display": "",
-    "background_color": "",
-    "theme_color": "",
+    "name": "Lab8_Starter",
+    "short_name": "Mitchell Moundraty",
+    "description": "CSE 110 Lab 8",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#32a852",
+    "theme_color": "#32a88f",
     "icons": [
       {
-        "src": "/assets/images/icons/icon-192x192.png",
+        "src": "assets/images/icons/icon-192x192.png",
         "sizes": "192x192",
         "type": "image/png"
       }
